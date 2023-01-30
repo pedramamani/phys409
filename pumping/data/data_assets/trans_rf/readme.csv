@@ -1,0 +1,27 @@
+RF frequency,300 kHz,
+Modulation,5 Hz square wave between 0 and 5 V,
+Field,Tuned to the 85Rb and 87Rb resonances,
+Trigger,Falling edge of square wave,
+Temperature,50 C,
+Ch 1,5 Hz square wave,
+Ch 2,Detector,
+,,
+File,Isotope,RF amplitude (Vpp)
+0,87Rb,2
+1,87Rb,2.5
+2,87Rb,3
+3,87Rb,3.5
+4,87Rb,4
+5,87Rb,4.5
+6,87Rb,5
+33,85Rb,5
+34,85Rb,4.5
+35,85Rb,4
+36,85Rb,3.5
+37,85Rb,3
+38,85Rb,2.5
+39,85Rb,2
+40,85Rb,1.5
+41,85Rb,1
+42,87Rb,1
+43,87Rb,1.5
